@@ -18,4 +18,4 @@ In this challenge, I created the ExplorerQueue class using a circular queue to m
 5. The Binary Tree of Clues :
 For the binary tree problem, I developed a ClueTree class to represent a collection of clues organized in a binary search tree. The class allows for inserting new clues into the correct position based on their value. It also includes methods to traverse the tree in in-order, pre-order, and post-order sequences. Additionally, there are functions to search for a specific clue and to count the total number of clues in the tree. This design leverages the binary tree structure to allow efficient searching, insertion, and traversal of clues.
 
-All 5 programs are menu driven so it is very easy to operate after running the code by following the menu which is listed
+All 5 programs are menu driven so it is very easy to operate after running the code by following the menu which is listed.
